@@ -188,7 +188,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="/cv/CV_Ralantoarison_Tatiannah.pdf"
+            href="/cv/CV_TatiannahRAL.pdf"
             download
             style={{
               border: "1px solid var(--line2)",
@@ -206,7 +206,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="/cv/CV_Ralantoarison_Tatiannah.pdf"
+            href="/cv/CV_TatiannahRAL.pdf"
             target="_blank"
             style={{
               border: "1px solid var(--line)",

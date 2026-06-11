@@ -304,7 +304,7 @@ export default function Hero() {
             }}
           >
             <Image
-  src="/images/photo.png"
+  src="/images/photo2.png"
   alt="Photo"
   fill
   sizes="(max-width: 768px) 100vw,
